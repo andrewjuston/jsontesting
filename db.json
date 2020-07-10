@@ -7,14 +7,11 @@
 			"Caption":"ini cuma testing",
 			"Image":""
         },
-		{
-            "id":"2",
+		{"id":"2",
             "TaskTitle": "try again",
             "Dateline": "2020-07-10",
 			"Caption":"ini cuma testing kedua",
-			"Image": ""},
+			"Image": ""}
         ],
-		"profile": {
-    "name": "andrewjuston"
-  }
+	"profile": {"name": "andrewjuston"}
 }
