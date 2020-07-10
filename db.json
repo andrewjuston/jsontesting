@@ -1,14 +1,14 @@
 {
     "tasks":[
         {
-            "TaskId":"1"
+            "id":"1"
             "TaskTitle": "test"
             "Dateline": "2020-07-10"
 			"Caption":"ini cuma testing"
 			"Image":"https://duckduckgo.com/?q=pexels+free+images&page=1&adx=prdsdb&sexp=%7B"v7exp"%3A"a"%2C"sltexp"%3A"b"%2C"prodexp"%3A"a"%2C"prdsdexp"%3A"b"%2C"rgiexp"%3A"b"%7D&iax=images&ia=images&iai=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F302743%2Fpexels-photo-302743.jpeg%3Fcs%3Dsrgb%26dl%3Dball-ball-shaped-blur-302743.jpg%26fm%3Djpg"
         },
 		{
-            "TaskId":"2"
+            "id":"2"
             "TaskTitle": "try again"
             "Dateline": "2020-07-10"
 			"Caption":"ini cuma testing kedua"
