@@ -1,17 +1,17 @@
 {
     "tasks":[
         {
-            "TaskId":"1",
-            "TaskTitle": "test",
-            "DateLine": "2020-07-10",
-			"Caption":"ini cuma testing",
-			"Image":""
+            "task_id":"1",
+            "task_title": "test",
+            "date_line": "2020-07-10T11:20:43.511Z",
+			"caption":"ini cuma testing",
+			"image":""
         },
-		{"TaskId":"2",
-            "TaskTitle": "try again",
-            "DateLine": "2020-07-10",
-			"Caption":"ini cuma testing kedua",
-			"Image": ""}
+		{"task_id":"2",
+            "task_title": "try again",
+            "date_line": "2020-07-10T11:20:43.511Z",
+			"caption":"ini cuma testing kedua",
+			"image": ""}
         ],
 	"profile": {"name": "andrewjuston"}
 }
